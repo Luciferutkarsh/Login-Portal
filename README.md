@@ -1,5 +1,5 @@
-# Login-Portal Front-end
-## Just Tried few things..
+# Login-Portal Front-end.
+## Just Tried few things...
   
   I wanted it to look cooler.
 It should support good things.
