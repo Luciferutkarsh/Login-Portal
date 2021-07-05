@@ -7,3 +7,6 @@ It should support good things.
 Your README file is normally the first entry point to your code. It should tell people why they should use your module, how they can install it, and how they can use it. Examples of standard READMEs - such as this file you are reading. ..
 
 It should work
+like you want it too.
+
+It's just a simple syntax without JS, it's HTML and CSS only.
